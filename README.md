@@ -7,6 +7,6 @@ PFD를 구현하기 위해 사용한 마이크로컨트롤러는 아두이노 UN
 ## 개발 팀원 소개
 | 류용헌 |
 |:------:|
-| <img src="https://github.com/MiruHeon/Normal-Project/blob/main/193119713.jpeg?raw=true" alt="류용헌" width="150"> |
+| <img src="https://github.com/MiruHeon/Normal-Project/blob/main/Profile.png?raw=true" alt="류용헌" width="150"> |
 | PL |
 
