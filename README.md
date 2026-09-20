@@ -1,4 +1,4 @@
-<img width="729" height="521" alt="image" src="https://github.com/user-attachments/assets/49e4dec1-3206-4d2e-a0e5-452ab3133a9e" /># PFD Test
+# PFD Test
 
 ## What is PFD?
 주로 항공기에 탑재되는 소프트웨어인 PFD(Primary Flight Display) 주행장치 지시계는 항공기의 속도, 고도, 자세, 방위 등 비행에 꼭 필요한 핵심 정보를 하나의 화면에 종합적으로 보여주는 소프트웨어입니다.
