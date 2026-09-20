@@ -28,6 +28,11 @@ MPU6050 기울기 데이터 수집 및 전송(아두이노)
   <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%ED%9A%8C%EB%A1%9C%EB%8F%84.png?raw=true" alt="배선도" width="600" />
 </p>
 
+## Core Features
+### Two-dimensional structure
+이 작품에선, Roll, Pitch의 시각화만 구현되고 방위각(Yaw)의 시각화는 없이 설계되었습니다.
+따라서, 기울기 데이터 본연의 변화량만 화면에 왜곡 없이 명확하게 전달할 수 있습니다.
+
 ## 개발 팀원 소개
 | 류용헌 |
 |:------:|
