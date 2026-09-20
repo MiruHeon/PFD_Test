@@ -8,7 +8,7 @@
 그 다음으로 컴퓨터 내부로 들어오는 특정 데이터를 시각화 해주는 프로세싱(Processing)이라는 공개 소프트웨어를 사용해서 PFD를 구현했습니다.
 
 <p align="center">
-  <img src="https://github.com/MiruHeon/Normal-Project/blob/main/pfd.png?raw=true" alt="PFD" width="760" />
+  <img src="https://github.com/MiruHeon/Normal-Project/blob/main/pfd.png?raw=true" alt="PFD" width="500" />
 </p>
 
 
