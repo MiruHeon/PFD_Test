@@ -25,7 +25,7 @@ MPU6050 기울기 데이터 수집 및 전송(아두이노)
 
 ## Wiring Diagram
 <p align="center">
-  <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%ED%9A%8C%EB%A1%9C%EB%8F%84.png?raw=true" alt="배선도" width="500" />
+  <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%ED%9A%8C%EB%A1%9C%EB%8F%84.png?raw=true" alt="배선도" width="600" />
 </p>
 
 
