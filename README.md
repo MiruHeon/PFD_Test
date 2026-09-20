@@ -14,6 +14,15 @@
   <img src="https://github.com/MiruHeon/Normal-Project/blob/main/pfd.png?raw=true" alt="PFD" width="500" />
 </p>
 
+## Architecture
+```
+MPU6050 기울기 데이터 수집 및 전송(아두이노)
+      ↓
+기울기 데이터 분할(x,y)
+      ↓
+데이터 시각화(프로세싱)
+```
+
 
 ## 개발 팀원 소개
 | 류용헌 |
