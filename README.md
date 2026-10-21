@@ -39,6 +39,6 @@ MPU6050 기울기 데이터 수집 및 전송(아두이노)
 ## 개발 팀원 소개
 | 류용헌 |
 |:------:|
-| <img src="https://github.com/MiruHeon/Normal-Project/blob/main/profile.png?raw=true" alt="류용헌" width="150"> |
+| <img src="https://github.com/MiruHeon/Normal-Project/blob/main/momong.jpg?raw=true" alt="류용헌" width="150"> |
 | PL |
 
